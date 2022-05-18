@@ -17,7 +17,7 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <Text numberOfLines={1} onPress={handlePress}>
-        Hello Ray! Really longer text to see what realy happens in.
+        Hello Raymond! Really longer text to see what realy happens in.
       </Text>
       <Button
         title="Alert button"
